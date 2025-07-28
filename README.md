@@ -11,21 +11,22 @@ Welcome! This repository documents my journey to become a software engineer. I a
 ## Goals
 
 1. Master programming fundamentals (data types, loops, functions etc).
-2. Build real-world projects in Python and Java.
-3. Learn Git and GitHub for version control.
+2. Build projects in Python and Java.
+3. Learn GitHub for version control.
 4. Study data structures and algorithms.
 5. Explore related areas: web development, databases, and more.
 6. Prepare for internships and entry-level software engineering positions.
 
 ## Projects
 
-- **Raffle number picker (python)**
-- **Text-based Adventure Game (Java)**
+- **Raffle number picker
 - More projects coming soon! ;)
 
 ## Connect
 
-Feel free to follow my progress on replit - https://replit.com/@24yasina
+Feel free to follow my progress on:
+replit - https://replit.com/@24yasina
+w3schools - https://www.w3profile.com/SwiftDev79/
 
 ---
 
